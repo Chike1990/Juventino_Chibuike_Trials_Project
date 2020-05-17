@@ -9,7 +9,10 @@
     border-right-color: currentcolor;
     border-color: rgba(0, 22, 22, 0.4);
 }
+a{
+  text-decoration-color: beige;
 
+}
 #navbar ul {
     height: 88%;
     padding: 0;
